@@ -1,8 +1,8 @@
 ---
 layout: single
 
-date: 2023-11-00
-last_modified_at: 2023-11-00
+date: 2023-11-01
+last_modified_at: 2023-11-01
 
 categories:
 - Blog
