@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/templates/Posting Template.md",
+                "file": "_posts/2023-11-17-Testing2.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/templates/Posting Template.md",
+                "file": "_posts/2023-11-17-Testing2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/templates/Posting Template.md",
+                "file": "_posts/2023-11-17-Testing2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/templates/Posting Template.md"
+                "file": "_posts/2023-11-17-Testing2.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "f34961be4c3f03b1",
   "lastOpenFiles": [
+    "assets/templates/Posting Template.md",
     "_posts/2023-11-17-Testing2.md",
-    "_posts/2023-11-16-Template-Testing.md",
-    "assets/templates/Posting Template.md"
+    "_posts/2023-11-16-Template-Testing.md"
   ]
 }
