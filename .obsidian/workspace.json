@@ -6,6 +6,7 @@
       {
         "id": "734407161e8ae503",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "f34961be4c3f03b1",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/D Posting Plan.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,17 +23,18 @@
         ]
       },
       {
-        "id": "29ecee58e1b5663c",
+        "id": "880270e78864813f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "b7133843df4bb077",
+            "id": "8839a7e3d8d2a9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
-                "mode": "preview",
+                "file": "_posts/draft/D Posting Plan.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/D Posting Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/D Posting Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md"
+                "file": "_posts/draft/D Posting Plan.md"
               }
             }
           }
@@ -166,8 +168,13 @@
   },
   "active": "f34961be4c3f03b1",
   "lastOpenFiles": [
-    "assets/templates/Posting Template.md",
+    "_posts/2023-11-16-Template-Testing.md",
     "_posts/2023-11-17-Testing2.md",
-    "_posts/2023-11-16-Template-Testing.md"
+    "_posts/draft/D Posting Plan.md",
+    "_posts/archive",
+    "_posts/archieve",
+    "_posts/untitled folder",
+    "_posts/draft",
+    "assets/templates/Posting Template.md"
   ]
 }
