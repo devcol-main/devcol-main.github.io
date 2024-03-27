@@ -1,27 +1,19 @@
 ---
 layout: single
-
 date: 2023-11-16
 last_modified_at: 2023-11-16
-
 categories:
-- Blog
-
-tags: 
-- [Tutorial, Blog, Jekyll, GitHub, GitHub Pages]
-
+  - Blog
+tags: [Blog, Tutorial]
 toc: true
 toc_label: Table of Contents
-toc_icon: "cogs"
+toc_icon: cogs
 toc_sticky: true
 
 classes: wide
 
-read_time: false
+read_time: true
 show_date: true
-
-
-
 ---
 
 # Heading 1: Things I did

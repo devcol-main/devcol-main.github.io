@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "734407161e8ae503",
+        "id": "3230644b873b9535",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "f34961be4c3f03b1",
+            "id": "bd9f03d5c61bc856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/2023-11-17-Testing2.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,19 +22,18 @@
         ]
       },
       {
-        "id": "880270e78864813f",
+        "id": "6bb630f7d17d33cc",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "8839a7e3d8d2a9c3",
+            "id": "387a17d195d80430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/draft/D Posting Plan.md",
-                "mode": "source",
-                "source": true
+                "file": "_posts/2024-01-11-About DevCol.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
     "id": "0c1bd88a60314bdb",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/2023-11-17-Testing2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/draft/2023-11-17-Testing2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md"
+                "file": "_posts/draft/2023-11-17-Testing2.md"
               }
             }
           }
@@ -166,15 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34961be4c3f03b1",
+  "active": "3ff81dcfe5916708",
   "lastOpenFiles": [
-    "_posts/2023-11-16-Template-Testing.md",
-    "_posts/2023-11-17-Testing2.md",
-    "_posts/draft/D Posting Plan.md",
+    "_posts/2024-01-11-About DevCol.md",
+    "_posts/draft/2023-11-17-Testing2.md",
+    "_posts/archive/Github io Template (2024).md",
+    "_posts/draft/2023-11-16-Template-Testing.md",
+    "2024-03-27.md",
+    "_posts/Untitled.md",
+    "_posts/draft/Draft Setting up Github page.md",
+    "_posts/draft/Draft DevCol Posting Plan.md",
+    "_posts/draft/Learning Csharp.md",
+    "assets/templates/Posting Template.md",
+    "Untitled",
+    "2023-11-23.md",
     "_posts/archive",
     "_posts/archieve",
     "_posts/untitled folder",
-    "_posts/draft",
-    "assets/templates/Posting Template.md"
+    "_posts/draft"
   ]
 }

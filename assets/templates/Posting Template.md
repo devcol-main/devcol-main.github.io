@@ -20,8 +20,6 @@ classes: wide
 read_time: false
 show_date: true
 
-
-
 ---
 
 
@@ -54,6 +52,8 @@ in post file name make sure [no space , no Upper case]
 **date** : 글을 처음 작성한 날짜. yyyy-mm-dd 형식으로 작성했다.
 
 **last_modified_at** : 이 글을 수정한 날짜.
+
+* classes: wide (넓이) / 이거에 따라 옆에 table of contents 가 생기냐, Top에 위치하냐 나뉨. (특수한 경우에만 옆에 t.o.c.   따라 오게 하자.)
 
 https://ansohxxn.github.io/blog/posting/
 -->
