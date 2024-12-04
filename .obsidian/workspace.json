@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/draft/Draft Setting up Github page.md",
+                "file": "_posts/2024-12-03-Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,12 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd9f03d5c61bc856",
+  "active": "387a17d195d80430",
   "lastOpenFiles": [
-    "_posts/Screenshot 2024-11-26 at 3.55.44 PM.png",
-    "_posts/2024-01-11-About DevCol.md",
+    "images/Screenshot 2024-11-26 at 3.55.44 PM.png",
     "_posts/2024-12-03-Testing.md",
     "_posts/draft/Draft Setting up Github page.md",
+    "images",
+    "untitled folder",
+    "_posts/2024-01-11-About DevCol.md",
     "Screenshot 2024-11-26 at 3.55.44 PM 2.png",
     "Screenshot 2024-11-26 at 3.55.44 PM 1.png",
     "_posts/archive/Github io Template (2024).md",
