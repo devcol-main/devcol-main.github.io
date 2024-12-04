@@ -25,17 +25,22 @@
         ]
       },
       {
-        "id": "6bb630f7d17d33cc",
+        "id": "23f577f58be2e000",
         "type": "tabs",
         "children": [
           {
-            "id": "387a17d195d80430",
+            "id": "46b6633148b4db84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-12-04-New Test.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-04-New Test"
             }
           }
         ]
@@ -181,14 +186,14 @@
   },
   "active": "261b5baccd75335f",
   "lastOpenFiles": [
+    "images/im2.png",
+    "_posts/2024-12-04-New Test.md",
     "_posts/draft/D Posting Plan.md",
     "_posts/draft/2023-11-17.md",
     "_posts/draft/2023-11-16.md",
     "_posts/draft/Draft DevCol Posting Plan.md",
     "_posts/2023-11-16-Template-Testing.md",
     "_posts/draft/Draft Setting up Github page.md",
-    "_posts/2024-12-04-New Test.md",
-    "images/im1.png",
     "Invalid date.md",
     "_posts/2023-11-17-Testing2.md",
     "_posts/2024-01-11-About DevCol.md",
