@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-04-New Test.md",
+                "file": "notes/testing new notes folder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-04-New Test"
+              "title": "testing new notes folder"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-12-04-New Test.md",
+                "file": "notes/testing new notes folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-04-New Test"
+              "title": "Backlinks for testing new notes folder"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-12-04-New Test.md",
+                "file": "notes/testing new notes folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-04-New Test"
+              "title": "Outgoing links from testing new notes folder"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-12-04-New Test.md"
+                "file": "notes/testing new notes folder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-04-New Test"
+              "title": "Outline of testing new notes folder"
             }
           }
         ]
@@ -184,12 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff81dcfe5916708",
+  "active": "261b5baccd75335f",
   "lastOpenFiles": [
+    "_posts/2024-12-04-New Test.md",
+    "notes/testing new notes folder.md",
     "notes",
     "_posts/draft/2023-11-17.md",
     "_posts/2023-11-16-Template-Testing.md",
-    "_posts/2024-12-04-New Test.md",
     "images/im2.png",
     "_posts/draft/D Posting Plan.md",
     "_posts/draft/2023-11-16.md",
