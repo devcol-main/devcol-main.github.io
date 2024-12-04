@@ -19,4 +19,3 @@ show_date: true
 ---
 
 
-

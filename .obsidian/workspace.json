@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/archive/Github io Template (2024).md",
+                "file": "_posts/2024-12-03-Testing.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/archive/Github io Template (2024).md",
+                "file": "_posts/draft/Draft Setting up Github page.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/archive/Github io Template (2024).md",
+                "file": "_posts/2024-12-03-Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/archive/Github io Template (2024).md",
+                "file": "_posts/2024-12-03-Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/archive/Github io Template (2024).md"
+                "file": "_posts/2024-12-03-Testing.md"
               }
             }
           }
@@ -164,12 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "387a17d195d80430",
+  "active": "bd9f03d5c61bc856",
   "lastOpenFiles": [
+    "_posts/Screenshot 2024-11-26 at 3.55.44 PM.png",
     "_posts/2024-01-11-About DevCol.md",
+    "_posts/2024-12-03-Testing.md",
+    "_posts/draft/Draft Setting up Github page.md",
+    "Screenshot 2024-11-26 at 3.55.44 PM 2.png",
+    "Screenshot 2024-11-26 at 3.55.44 PM 1.png",
     "_posts/archive/Github io Template (2024).md",
     "_posts/draft/Draft DevCol Posting Plan.md",
-    "_posts/draft/Draft Setting up Github page.md",
+    "Screenshot 2024-11-26 at 3.55.44 PM.png",
     "README.md",
     "_posts/draft/2023-11-17.md",
     "_posts/draft/2023-11-16.md",
