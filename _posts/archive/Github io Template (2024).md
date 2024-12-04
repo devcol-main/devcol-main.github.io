@@ -1,18 +1,26 @@
 ---
-// (If wants to use diff title) title: 
+title: 
 
-layout: single
 date: 2024-MM-DD
 last_modified_at: 2024-MM-DD
+show_date: true
+
+layout: single
+classes: wide
+
 categories:
   - Blog
 tags: [Blog]
-toc: true
+
 toc_label: Table of Contents
+
+toc: true
 toc_icon: cogs
 toc_sticky: true
-classes: wide
-read_time: true
-show_date: true
 
+read_time: false
 ---
+
+
+
+

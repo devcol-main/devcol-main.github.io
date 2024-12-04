@@ -1,26 +1,20 @@
-
 ---
+title: About DevCol
 layout: single
-
-date: 2024-01-11
-last_modified_at: 2024-03-27
-
+date: 2023-11-16
+last_modified_at: 2023-11-16
 categories:
-- Blog
-
-tags: 
-- [Tutorial, Blog, Jekyll, GitHub, GitHub Pages]
-
+  - Blog
+tags: [Blog, Tutorial]
 toc: true
 toc_label: Table of Contents
-toc_icon: "cogs"
+toc_icon: cogs
 toc_sticky: true
 
 classes: wide
 
 read_time: false
 show_date: true
-
 ---
 
 # DevCol: Your Gateway to Software Development and Collaborative Innovation

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/draft/2023-11-17-Testing2.md",
+                "file": "_posts/2024-01-11-About DevCol.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2024-01-11-About DevCol.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/draft/2023-11-17-Testing2.md",
+                "file": "_posts/2024-01-11-About DevCol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/draft/2023-11-17-Testing2.md",
+                "file": "_posts/2024-01-11-About DevCol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/draft/2023-11-17-Testing2.md"
+                "file": "_posts/2024-01-11-About DevCol.md"
               }
             }
           }
@@ -164,16 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff81dcfe5916708",
+  "active": "bd9f03d5c61bc856",
   "lastOpenFiles": [
+    "_posts/draft/Draft DevCol Posting Plan.md",
     "_posts/2024-01-11-About DevCol.md",
-    "_posts/draft/2023-11-17-Testing2.md",
+    "_posts/draft/Draft Setting up Github page.md",
     "_posts/archive/Github io Template (2024).md",
-    "_posts/draft/2023-11-16-Template-Testing.md",
+    "README.md",
+    "_posts/draft/2023-11-17.md",
+    "_posts/draft/2023-11-16.md",
     "2024-03-27.md",
     "_posts/Untitled.md",
-    "_posts/draft/Draft Setting up Github page.md",
-    "_posts/draft/Draft DevCol Posting Plan.md",
     "_posts/draft/Learning Csharp.md",
     "assets/templates/Posting Template.md",
     "Untitled",
