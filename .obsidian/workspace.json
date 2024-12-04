@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd9f03d5c61bc856",
+            "id": "261b5baccd75335f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "2024-12-03-Testing"
-            }
-          },
-          {
-            "id": "261b5baccd75335f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -47,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2024-12-03-Testing.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -196,27 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd9f03d5c61bc856",
+  "active": "3ff81dcfe5916708",
   "lastOpenFiles": [
-    "images/im1.png",
+    "README.md",
+    "images/testing/im1.png",
     "_posts/2024-12-03-Testing.md",
-    "_posts/Screenshot 2024-11-26 at 3.54.53 PM.png",
+    "images/testing",
     "_posts/2024-01-11-About DevCol.md",
+    "notes/How to use Obsidian for Github Page.md",
+    "notes",
+    "_posts/draft/2023-11-16.md",
+    "_posts/draft/2023-11-17.md",
+    "_posts/draft/Draft DevCol Posting Plan.md",
+    "_posts/draft/Draft Setting up Github page.md",
+    "_posts/archive/Github io Template (2024).md",
+    "_posts/draft/2024-12-04.md",
+    "Untitled.md",
+    "2024-12-04.md",
+    "assets/templates/Posting Template.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "_posts/Screenshot 2024-11-26 at 3.54.53 PM.png",
     "images",
     "assets/images/Screenshot 2024-11-26 at 3.54.53 PM.png",
     "assets/images/Screenshot 2024-11-26 at 3.55.44 PM.png",
-    "assets/templates/Posting Template.md",
     "Screenshot 2024-11-26 at 3.55.44 PM.png",
-    "_posts/draft/Draft Setting up Github page.md",
     "assets/images",
     "untitled folder",
     "Screenshot 2024-11-26 at 3.55.44 PM 2.png",
     "Screenshot 2024-11-26 at 3.55.44 PM 1.png",
-    "_posts/archive/Github io Template (2024).md",
-    "_posts/draft/Draft DevCol Posting Plan.md",
-    "README.md",
-    "_posts/draft/2023-11-17.md",
-    "_posts/draft/2023-11-16.md",
     "2024-03-27.md",
     "_posts/Untitled.md",
     "_posts/draft/Learning Csharp.md",
