@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/2024-12-04-New Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-11-17-Testing2"
+              "title": "2024-12-04-New Test"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/2024-12-04-New Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023-11-17-Testing2"
+              "title": "Backlinks for 2024-12-04-New Test"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md",
+                "file": "_posts/2024-12-04-New Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2023-11-17-Testing2"
+              "title": "Outgoing links from 2024-12-04-New Test"
             }
           },
           {
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-17-Testing2.md"
+                "file": "_posts/2024-12-04-New Test.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2023-11-17-Testing2"
+              "title": "Outline of 2024-12-04-New Test"
             }
           }
         ]
@@ -181,24 +181,25 @@
   },
   "active": "261b5baccd75335f",
   "lastOpenFiles": [
-    "notes/How to use Obsidian for Github Page.md",
-    "_posts/2023-11-17-Testing2.md",
-    "_posts/2023-11-16-Template-Testing.md",
-    "_posts/2024-01-11-About DevCol.md",
-    "images/im1.png",
-    "_posts/2024-12-03-Testing.md",
     "_posts/draft/D Posting Plan.md",
+    "_posts/draft/2023-11-17.md",
+    "_posts/draft/2023-11-16.md",
+    "_posts/draft/Draft DevCol Posting Plan.md",
+    "_posts/2023-11-16-Template-Testing.md",
+    "_posts/draft/Draft Setting up Github page.md",
+    "_posts/2024-12-04-New Test.md",
+    "images/im1.png",
+    "Invalid date.md",
+    "_posts/2023-11-17-Testing2.md",
+    "_posts/2024-01-11-About DevCol.md",
+    "notes/How to use Obsidian for Github Page.md",
+    "_posts/2024-12-03-Testing.md",
     "README.md",
     "images/testing",
     "notes",
-    "_posts/draft/2023-11-16.md",
-    "_posts/draft/2023-11-17.md",
-    "_posts/draft/Draft DevCol Posting Plan.md",
-    "_posts/draft/Draft Setting up Github page.md",
     "_posts/archive/Github io Template (2024).md",
     "_posts/draft/2024-12-04.md",
     "Untitled.md",
-    "2024-12-04.md",
     "assets/templates/Posting Template.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
