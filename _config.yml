@@ -20,13 +20,14 @@ title                    : "DevCol" # "DevCol - Development Collaboration"
 title_separator          : "|"
 subtitle                 : "Development Collaboration" # site tagline that appears below site title in masthead
 name                     : "DevCol" # "Your Name"
-description              : "Creation Starting Point" # "Description An website."
+description              : "Creation Hub" # "Description An website."
 url                      : "https://devcol-main.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/devcol logo white back.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/devcol logo no background.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # "/assets/images/devcol logo white back.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/devcol logo white back.png" # "/assets/images/devcol logo no background.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,8 +106,8 @@ analytics:
 # Site Author
 author:
   name             : "DevCol" # "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DevCol's Blog" # "I am an **amazing** person."
+  avatar           : "/assets/images/devcol logo white back.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Development Collaboration" # "I am an **amazing** person."
   location         : # "Somewhere"
   email            :
   links:
@@ -286,7 +287,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false # true
+      comments: true # true
       share: true
       related: true
+      show_date: true
+
+# date_format: "%Y-%m-%d" # default : "%B %-d, %Y"
