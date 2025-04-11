@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "23f577f58be2e000",
+        "id": "63aa0187fb7688db",
         "type": "tabs",
         "children": [
           {
-            "id": "46b6633148b4db84",
+            "id": "eaef0ee0ba7e337e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-11-About DevCol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-01-11-About DevCol"
             }
           }
         ]
@@ -36,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/templates/Posting Template.md",
+                "file": "_posts/2024-01-11-About DevCol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Posting Template"
+              "title": "Backlinks for 2024-01-11-About DevCol"
             }
           },
           {
@@ -158,17 +173,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b6633148b4db84",
+  "active": "eaef0ee0ba7e337e",
   "lastOpenFiles": [
+    "_posts/archive/Github io Template (2024).md",
+    "_posts/2023-11-16-Template-Testing.md",
+    "notes/testing new notes folder.md",
+    "_posts/2023-11-17-Testing2.md",
+    "_posts/2024-01-11-About DevCol.md",
     "notes/Unity6 Challenge Hub Story.md",
     "notes/Unity6 Challenge Hub.md",
-    "notes/testing new notes folder.md",
     "notes/2025-01-24.md",
     "_posts/Untitled.md",
     "_posts/draft/Untitled.md",
-    "_posts/2024-01-11-About DevCol.md",
-    "_posts/2023-11-16-Template-Testing.md",
-    "_posts/2023-11-17-Testing2.md",
     "_posts/draft/Draft DevCol Posting Plan.md",
     "_posts/draft/2023-11-17.md",
     "_posts/draft/2023-11-16.md",
@@ -183,7 +199,6 @@
     "notes",
     "images/im2.png",
     "_posts/draft/D Posting Plan.md",
-    "_posts/archive/Github io Template (2024).md",
     "Invalid date.md",
     "notes/How to use Obsidian for Github Page.md",
     "_posts/2024-12-03-Testing.md",
