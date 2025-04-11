@@ -1,1 +1,1 @@
-# test
+# DevCol Git Blog
