@@ -17,12 +17,6 @@ read_time: false
 show_date: true
 ---
 
-![[Pasted image 20250411195603.png]]
---
-![Image](https://github.com/user-attachments/assets/70d4f585-87d9-49f2-82ca-346627801688)
-
---
-![[002_(2048 x 1152) 2.png]]
 # DevCol: Your Gateway to Software Development and Collaborative Innovation
 
 Welcome to **DevCol**, your one-stop destination for software development guidance and collaborative endeavors. At DevCol, we believe in the power of community. Where creativity knows no bounds, and sharing knowledge would help developers and users. Whether you're a junior developer looking to refine your skills or a complete beginner to start your coding journey, DevCol is here to help you every step.
